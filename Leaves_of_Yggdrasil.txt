@@ -1,0 +1,34 @@
+Leaves_of_Yggdrasil
+Title: Leaves of Yggdrasil
+Description: Leaves of Yggdrasil by Myrkur
+This is a template file for the Leaden project. Replace this text with your project details.
+Link: https://www.youtube.com/watch?v=1KhalomXRU0&list=RD1KhalomXRU0&start_radio=1
+Type of music: Dark Folk Music/Nordic Folk music
+- Introduction
+- Features
+- Installation
+- Usage
+- License
+
+---
+
+## Introduction
+
+Provide an overview of the Leaden project.
+
+## Features
+
+- Feature 1
+- Feature 2
+
+## Installation
+
+Describe how to install or set up the project.
+
+## Usage
+
+Explain how to use the project.
+
+## License
+
+Specify the license for this project.
